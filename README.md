@@ -9,7 +9,7 @@ Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 
 ## Stack
 
-#### - Programming Languages
+#### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
@@ -17,7 +17,7 @@ Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 
-#### - Data Science & Machine Learning
+#### Data Science & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -26,12 +26,12 @@ Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 
-#### - Databases
+#### Databases
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-#### - Tools & Platforms
+#### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
