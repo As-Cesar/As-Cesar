@@ -39,8 +39,8 @@ Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 
 ## Languages
 
-* 🇨🇴 Spanish (Native)
-* 🇺🇸 English (B1)
+- 🇨🇴 Spanish (Native)
+- 🇺🇸 English (B1)
 
 ## Contact
 
