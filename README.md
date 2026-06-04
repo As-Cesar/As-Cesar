@@ -73,11 +73,7 @@ My goal is to combine statistics, machine learning, and software engineering to 
 
 📧 Email: **[ascesar2003@gmail.com](mailto:ascesar2003@gmail.com)**
 
-💼 LinkedIn:
-
-https://www.linkedin.com/in/c%C3%A9sar-david-ascencio-a442632a4/
-
----
+💼 LinkedIn: https://www.linkedin.com/in/c%C3%A9sar-david-ascencio-a442632a4/
 
 <p align="center">
   <i>"Turning data into insights and ideas into solutions."</i>
