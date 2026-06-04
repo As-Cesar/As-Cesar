@@ -8,8 +8,6 @@ Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 Passionate about Data Science, Machine Learning and transforming data into valuable insights.
 </p>
 
----
-
 ## 🚀 About Me
 
 🎓 Systems Engineering student (8th semester) at the **Universidad Industrial de Santander (UIS)**.
@@ -25,8 +23,6 @@ Passionate about Data Science, Machine Learning and transforming data into valua
 * Statistical Modeling
 * Deep Learning
 * Database Systems
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -58,8 +54,6 @@ Passionate about Data Science, Machine Learning and transforming data into valua
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
 
----
-
 ## 📌 Featured Projects
 
 ### 📊 Statistical Analysis of GEIH 2025
@@ -81,35 +75,6 @@ Statistical analysis project developed in **R** using data from the **Gran Encue
 * Data Visualization
 * Inferential Statistics
 * Regression Modeling
-
-🔗 Repository:
-**Proyecto-Analisis-de-Datos**
-
----
-
-### 🤖 Credit Risk Classification
-
-Machine Learning project focused on predicting loan default risk using financial and demographic information.
-
-#### Techniques Used
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* Classification Models
-* Model Evaluation and Comparison
-
-#### Skills Demonstrated
-
-* Machine Learning
-* Predictive Modeling
-* Data Preprocessing
-* Model Validation
-
-🔗 Repository:
-**ProyectoIA-Credit-Risk-Classification**
-
----
 
 ## 🎯 Career Goals
 
