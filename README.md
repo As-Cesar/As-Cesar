@@ -64,22 +64,10 @@ I am currently seeking opportunities as:
 
 My goal is to combine statistics, machine learning, and software engineering to develop intelligent solutions that generate measurable impact.
 
----
-
 ## 🌎 Languages
 
 * 🇨🇴 Spanish (Native)
 * 🇺🇸 English (B1)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=As-Cesar\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=As-Cesar\&layout=compact\&theme=default)
-
----
 
 ## 📫 Contact
 
