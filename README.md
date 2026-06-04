@@ -1,7 +1,7 @@
 <h1 align="center">César David Ascencio</h1>
-<h3 align="center">
+<h4 align="center">
 Systems Engineering student (8th semester) at the UIS
-</h3>
+</h4>
 <p align="center">
 Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 </p>
