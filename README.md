@@ -54,28 +54,6 @@ Passionate about Data Science, Machine Learning and transforming data into valua
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
 
-## 📌 Featured Projects
-
-### 📊 Statistical Analysis of GEIH 2025
-
-Statistical analysis project developed in **R** using data from the **Gran Encuesta Integrada de Hogares (GEIH 2025)** published by DANE.
-
-#### Topics Covered
-
-* Statistical Inference
-* Hypothesis Testing
-* Correlation Analysis
-* Multiple Linear Regression
-* Model Assumption Validation
-
-#### Skills Demonstrated
-
-* Statistical Analysis
-* Data Interpretation
-* Data Visualization
-* Inferential Statistics
-* Regression Modeling
-
 ## 🎯 Career Goals
 
 I am currently seeking opportunities as:
