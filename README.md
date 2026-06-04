@@ -1,14 +1,10 @@
 <h1 align="center">César David Ascencio</h1>
-<h2 align="center">Systems Engineering student (8th semester) at the **Universidad Industrial de Santander (UIS)**</h2>
-<h2 align="center">**Data Analytics** | **Machine Learning** | **Artificial Intelligence**</h2>
-
+<p align="center">
+Systems Engineering student (8th semester) at the UIS
+</p>
 <h3 align="center">
 Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 </h3>
-
-<p align="center">
-Passionate about Data Science, Machine Learning and transforming data into valuable insights.
-</p>
 
 ## Stack
 
