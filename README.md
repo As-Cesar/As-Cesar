@@ -1,4 +1,4 @@
-<h2 align="center">César David Ascencio</h2>
+<h1 align="center">César David Ascencio</h1>
 <h4 align="center">
 Systems Engineering student (8th semester) at the UIS
 </h4>
