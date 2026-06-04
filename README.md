@@ -35,12 +35,6 @@ Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 | **[Credit Risk Classification](https://github.com/As-Cesar/ProyectoIA-Credit-Risk-Classification)** | Machine Learning |Predicting loan default risk using machine learning techniques, feature engineering, model evaluation, and supervised classification algorithms.      |
 | **[Statistical Analysis of GEIH 2025](https://github.com/As-Cesar/Proyecto-Analisis-de-Datos)**     | Data Analytics   | Statistical analysis using R, including inferential statistics, hypothesis testing, correlation analysis, and multiple regression models based on GEIH 2025 data. |
 
-## 📈 GitHub Stats
-
-![César's GitHub stats](https://github-readme-stats.vercel.app/api?username=As-Cesar&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=As-Cesar&layout=compact)
-
 ## Languages
 
 - Spanish (Native)
