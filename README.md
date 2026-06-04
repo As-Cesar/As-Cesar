@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm César David Ascencio</h1>
+<h1 align="center">César David Ascencio</h1>
+<h2 align="center">Systems Engineering student (8th semester) at the **Universidad Industrial de Santander (UIS)**</h2>
+<h2 align="center">**Data Analytics** | **Machine Learning** | **Artificial Intelligence**</h2>
 
 <h3 align="center">
 Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
@@ -8,23 +10,7 @@ Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
 Passionate about Data Science, Machine Learning and transforming data into valuable insights.
 </p>
 
-## 🚀 About Me
-
-🎓 Systems Engineering student (8th semester) at the **Universidad Industrial de Santander (UIS)**.
-
-📊 Interested in **Data Analytics**, **Machine Learning**, and **Artificial Intelligence**.
-
-💡 I enjoy working with data, building predictive models, and applying statistical techniques to solve real-world problems.
-
-🌱 Currently improving my knowledge in:
-
-* Machine Learning
-* Data Analysis
-* Statistical Modeling
-* Deep Learning
-* Database Systems
-
-## 🛠️ Technologies & Tools
+## Stack
 
 ### Programming Languages
 
@@ -54,22 +40,12 @@ Passionate about Data Science, Machine Learning and transforming data into valua
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
 
-## 🎯 Career Goals
-
-I am currently seeking opportunities as:
-
-* Data Analyst
-* Machine Learning Engineer
-* Data Science Intern
-
-My goal is to combine statistics, machine learning, and software engineering to develop intelligent solutions that generate measurable impact.
-
-## 🌎 Languages
+## Languages
 
 * 🇨🇴 Spanish (Native)
 * 🇺🇸 English (B1)
 
-## 📫 Contact
+## Contact
 
 📧 Email: **[ascesar2003@gmail.com](mailto:ascesar2003@gmail.com)**
 
