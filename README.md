@@ -1,10 +1,11 @@
 <h1 align="center">César David Ascencio</h1>
-<p align="center">
-Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
-</p>
 <h3 align="center">
 Systems Engineering student (8th semester) at the UIS
 </h3>
+<p align="center">
+Systems Engineering Student | Data Analyst | Machine Learning Enthusiast
+</p>
+
 
 ## Stack
 
